@@ -66,7 +66,7 @@ def setup_clock(radius):
                 skip(25)
                 turtle.write(int(i / 5), align="center", font=("Courier", 14, "bold"))
                 skip(-25)
-            elif (i == 25 or i == 35):
+            elif i == 25 or i == 35:
                 skip(20)
                 turtle.write(int(i / 5), align="center", font=("Courier", 14, "bold"))
                 skip(-20)
