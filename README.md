@@ -10,4 +10,7 @@
 * python -m ipykernel install --user --name math --display-name "math"
 * jupyter-lab
 
+* conda install matplotlib -y
+* jupyter-lab
+
 ## 参考文献
