@@ -15,4 +15,13 @@
 * conda install matplotlib -y
 * jupyter-lab
 
+* conda install scipy
+* jupyter-lab
+
+* conda install pandas
+* jupyter-lab
+
+* conda install -c conda-forge scikit-learn
+* jupyter-lab
+
 ## 参考文献
