@@ -1,6 +1,4 @@
-# Python学数学
-
-用Python学数学，从123到人工智能。
+# 探索数学与编程的奇妙之旅 - AI时代启蒙课
 
 ## 环境搭建
 
@@ -22,6 +20,15 @@
 * jupyter-lab
 
 * conda install -c conda-forge scikit-learn
+* jupyter-lab
+
+* conda install -c anaconda sympy
+* jupyter-lab
+
+* conda install -c conda-forge matplotlib
+* jupyter-lab
+
+* conda install -c conda-forge seaborn 
 * jupyter-lab
 
 ## 参考文献
